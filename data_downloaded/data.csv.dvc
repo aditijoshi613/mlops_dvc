@@ -1,0 +1,11 @@
+md5: 504b9753b1fabfd3009ffbaee9a72da7
+frozen: true
+deps:
+- path: data/data.csv
+  repo:
+    url: https://github.com/aditijoshi613/mlops_dvc
+    rev_lock: ea1f7f96c0633b920d0c5580f693671a4a40a82a
+outs:
+- md5: 97edcee3524b1675ab68790ad35e80e9
+  size: 158375420
+  path: data.csv
